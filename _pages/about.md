@@ -28,16 +28,18 @@ latest_posts:
 ---
 
 Hi, I’m **Felipe Garavelli**, an engineering physics student at UBC with a background in robotics and applied physics.  
-I’m interested in robotics, optics, data-driven decision making, and energy. I enjoy building systems that combine hardware, software, and theory.  
+I’m interested in robotics, optics, data-driven decision making, and energy. I enjoy building systems that combine hardware, software, and theory.
 
 On this website, you’ll find:
-- **Projects** I’ve worked on (engineering, research, and personal)  
-- **Experiences** from working in industry  
-- **Courses** I’ve taken that shaped my research interests  
+
+- **Projects** I’ve worked on (engineering, research, and personal)
+- **Experiences** from working in industry
+- **Courses** I’ve taken that shaped my research interests
 
 ---
 
-You can connect with me here:  
-- [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- [GitHub](https://github.com/pepogara)  
+You can connect with me here:
+
+- [LinkedIn](https://www.linkedin.com/in/your-link/)
+- [GitHub](https://github.com/pepogara)
 - [Email](mailto:your-email@example.com)
