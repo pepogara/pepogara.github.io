@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: false
+title: cool courses
+nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: UBC Vancouver
+    permalink: /ubc/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: ETH Zurich
+    permalink: /eth/
 ---

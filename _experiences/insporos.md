@@ -1,9 +1,12 @@
 ---
-layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
-inline: false
-related_posts: false
+layout: job
+title: robotics engineer @ insporos
+company: Insporos
+position: Robotics Engineer
+location: Vancouver, BC
+start_date: 2024-05-01
+end_date: 2024-08-31
+skills: [CAD, SOLDERING]
 ---
 
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.

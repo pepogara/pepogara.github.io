@@ -40,15 +40,15 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-    <!-- News -->
-    {% if page.announcements and page.announcements.enabled %}
+    <!-- Experience -->
+    {% if page.experiences and page.experiences.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/experiences/' | relative_url }}" style="color: inherit">experiences</a>
       </h2>
-      {% include news.liquid limit=true %}
+      {% include experiences.liquid limit=true %}
     {% endif %}
 
-    <!-- Latest posts -->
+    <!-- latest projects -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>

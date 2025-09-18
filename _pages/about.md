@@ -16,10 +16,10 @@ profile:
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+experiences:
+  enabled: true # includes a list of experiences
+  scrollable: true # adds a vertical scroll bar if there are more than 3 experiences 
+  limit: 5 # leave blank to include all the experiences in the `_experiences` folder
 
 latest_posts:
   enabled: false
@@ -34,12 +34,5 @@ On this website, you’ll find:
 
 - **Projects** I’ve worked on (engineering, research, and personal)
 - **Experiences** from working in industry
-- **Courses** I’ve taken that shaped my research interests
+- **Courses** I’ve taken that shaped my interests
 
----
-
-You can connect with me here:
-
-- [LinkedIn](https://www.linkedin.com/in/your-link/)
-- [GitHub](https://github.com/pepogara)
-- [Email](mailto:your-email@example.com)

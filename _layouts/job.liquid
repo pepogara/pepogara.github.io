@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<div class="experience">
+  <header class="experience-header">
+    <h1 class="experience-title">{{ page.title }}</h1>
+    <p class="experience-meta">
+      {% if page.company %}
+        <strong>{{ page.company }}</strong>
+      {% endif %}
+      {% if page.position %}
+        — {{ page.position }}
+      {% endif %}
+      {% if page.location %}
+        • {{ page.location }}
+      {% endif %}
+      {% if page.start_date or page.end_date %}
+        <br>
+        <span class="experience-dates">
+          {{ page.start_date | date: '%B %Y' }}
+          {% if page.end_date %}
+            – {{ page.end_date | date: '%B %Y' }}
+          {% else %}
+            – Present
+          {% endif %}
+        </span>
+      {% endif %}
+    </p>
+  </header>
+
+  <article class="experience-content">
+    <div id="markdown-content">
+      {{ content }}
+    </div>
+  </article>
+
+  {% if page.skills %}
+    <p class="experience-skills">
+      <i class="fa-solid fa-wrench fa-sm"></i> 
+      {% for skill in page.skills %}
+        {{ skill }}{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </p>
+  {% endif %}
+</div>
