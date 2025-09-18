@@ -415,51 +415,36 @@ ninja.data = [{
           description: "",
           section: "Experiences",handler: () => {
               window.location.href = "/experiences/powerex/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-rf-box",
+          title: 'RF Box',
+          description: "Capstone Project",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/capstone1/";
+            },},{id: "projects-multiagent-rl-project",
+          title: 'Multiagent RL project',
+          description: "UBC capstone Project",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/capstone2/";
             },},{id: "projects-autonomous-racing-robot",
           title: 'Autonomous Racing Robot',
           description: "1st Place Winner.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/enph253/";
+            },},{id: "projects-self-navigating-ml-agent",
+          title: 'Self Navigating ML Agent',
+          description: "a project with a background image and",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/enph353/";
+            },},{id: "projects-self-navigating-spaceship",
+          title: 'Self Navigating Spaceship',
+          description: "ETH pdm4ar",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/eth_pdm1/";
+            },},{id: "projects-lane-switching",
+          title: 'Lane Switching',
+          description: "a project with no image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/eth_pdm2/";
             },},{
         id: 'social-email',
         title: 'email',
