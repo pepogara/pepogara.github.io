@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -417,12 +417,12 @@ ninja.data = [{
               window.location.href = "/experiences/powerex/";
             },},{id: "projects-rf-box",
           title: 'RF Box',
-          description: "Capstone Project",
+          description: "UBC Capstone Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/capstone1/";
             },},{id: "projects-multiagent-rl-project",
           title: 'Multiagent RL project',
-          description: "UBC capstone Project",
+          description: "UBC Capstone Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/capstone2/";
             },},{id: "projects-autonomous-racing-robot",
@@ -432,7 +432,7 @@ ninja.data = [{
               window.location.href = "/projects/enph253/";
             },},{id: "projects-self-navigating-ml-agent",
           title: 'Self Navigating ML Agent',
-          description: "a project with a background image and",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/enph353/";
             },},{id: "projects-self-navigating-spaceship",
@@ -442,7 +442,7 @@ ninja.data = [{
               window.location.href = "/projects/eth_pdm1/";
             },},{id: "projects-lane-switching",
           title: 'Lane Switching',
-          description: "a project with no image",
+          description: "ETH pdm4ar",
           section: "Projects",handler: () => {
               window.location.href = "/projects/eth_pdm2/";
             },},{
