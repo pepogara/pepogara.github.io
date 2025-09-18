@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Some projects I&#39;ve worked on.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -23,7 +23,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "dropdown-ubc-vancouver",
+              title: "UBC Vancouver",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/ubc/";
+              },
+            },{id: "dropdown-eth-zurich",
+              title: "ETH Zurich",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/eth/";
+              },
+            },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -386,18 +400,22 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+      },{id: "experiences-robotics-engineer-avestec",
+          title: 'robotics engineer @ avestec',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "Experiences",handler: () => {
+              window.location.href = "/experiences/avestec/";
+            },},{id: "experiences-robotics-engineer-insporos",
+          title: 'robotics engineer @ insporos',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "Experiences",handler: () => {
+              window.location.href = "/experiences/insporos/";
+            },},{id: "experiences-quantitative-energy-analyst-powerex",
+          title: 'quantitative energy analyst @ powerex',
           description: "",
-          section: "News",},{id: "projects-project-2",
+          section: "Experiences",handler: () => {
+              window.location.href = "/experiences/powerex/";
+            },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
