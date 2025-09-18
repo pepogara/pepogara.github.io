@@ -9,4 +9,4 @@ end_date: 2025-08-31
 skills: [CAD, SOLDERING]
 ---
 
-A simple inline announcement.
+page still in progress.

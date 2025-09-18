@@ -1,0 +1,28 @@
+/* Experiences styling */
+
+/* Desktop/tablet */
+.experience-date {
+  width: 30%;             /* give dates more room */
+  white-space: nowrap;    /* keep start–end date on one line */
+  padding-right: 1rem;    /* space between date and job */
+}
+
+/* Mobile */
+@media (max-width: 576px) {
+  .experiences table tr {
+    display: block;
+    margin-bottom: 1.25rem;   /* space between experience items */
+  }
+
+  .experiences th,
+  .experiences td {
+    display: block;
+    width: 100% !important;
+    text-align: left;
+  }
+
+  .experience-date {
+    margin-bottom: 0.35rem;   /* space under date */
+    font-weight: 600;         /* make date stand out */
+  }
+}

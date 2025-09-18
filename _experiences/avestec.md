@@ -9,4 +9,4 @@ end_date: 2023-04-30
 skills: [CAD, SOLDERING]
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+page still in progress.
