@@ -27,12 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m **Felipe Garavelli**, an engineering physics student at UBC with a background in robotics and applied physics.  
-I’m interested in robotics, optics, data-driven decision making, and energy. I enjoy building systems that combine hardware, software, and theory.
+I'm in my 5th year of [engineering physics at UBC](https://www.engphys.ubc.ca/), where I have built a strong foundation in both robotics and applied physics. Our coursework consists of both theoretical classes as well as year-long project-based ones. This mix has given me experience with control systems, prototyping, sensors, experimental design, and machine learning.
 
-On this website, you’ll find:
+In 2024 I went on exchange to [ETH Zurich](https://ethz.ch/de.html) where I took advanced master's-level courses in areas such as plannig and decision making for autonomous robots, aerodynamics, photonics, and various others.
 
-- **Projects** I’ve worked on (engineering, research, and personal)
-- **Experiences** from working in industry
-- **Courses** I’ve taken that shaped my interests
-
+I’m particularly interested in robotics, optics, energy systems, and data-driven decision making. I enjoy building systems that integrate hardware, software, and theory. Whether I’m prototyping a robotic mechanism, optimizing an optical system, or developing a control strategy, I’m motivated by projects that connect concepts with practical applications.
