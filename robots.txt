@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pepogara.github.io/sitemap.xml
+Sitemap: https://www.felipegaravelli.com/sitemap.xml
