@@ -37,7 +37,27 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/eth/";
               },
-            },{id: "experiences-robotics-engineer-avestec",
+            },{id: "classes-laboratory-techniques-in-physics",
+          title: 'Laboratory Techniques in Physics',
+          description: "ENPH 352",
+          section: "Classes",handler: () => {
+              window.location.href = "/classes/enph352/";
+            },},{id: "classes-applied-pde-39-s",
+          title: 'Applied PDE&amp;#39;s',
+          description: "MATH 400",
+          section: "Classes",handler: () => {
+              window.location.href = "/classes/math400/";
+            },},{id: "classes-pdm4ar",
+          title: 'PDM4AR',
+          description: "Planning and Decision Making for Autonomous Robots",
+          section: "Classes",handler: () => {
+              window.location.href = "/classes/pdm4ar/";
+            },},{id: "classes-computational-physics",
+          title: 'Computational Physics',
+          description: "PHYS 410",
+          section: "Classes",handler: () => {
+              window.location.href = "/classes/phys410/";
+            },},{id: "experiences-robotics-engineer-avestec",
           title: 'robotics engineer @ avestec',
           description: "",
           section: "Experiences",handler: () => {
