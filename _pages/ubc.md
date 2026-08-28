@@ -2,7 +2,7 @@
 layout: page
 title: UBC Vancouver Classes
 permalink: /ubc/
-description: A list of some of the cool courses I've taken at UBC.
+description: A list of some of the courses I've taken at UBC.
 nav: false
 nav_order: 3
 display_categories: [physics, math, engineering]

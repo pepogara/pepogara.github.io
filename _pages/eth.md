@@ -2,7 +2,7 @@
 layout: page
 title: ETH Zürich Classes
 permalink: /eth/
-description: A list of some of the cool courses I've taken at ETH.
+description: A list of some of the courses I've taken at ETH.
 nav: false
 nav_order: 4
 horizontal: false

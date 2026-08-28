@@ -3,7 +3,7 @@ layout: page
 title: Computational Physics 
 description: PHYS 410 
 img: 
-importance: 4
+importance: 1
 category: physics
 school: ubc
 ---
