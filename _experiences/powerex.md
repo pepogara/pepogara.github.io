@@ -11,7 +11,7 @@ skills: [Python, SQL, Excel, Optimization, Machine Learning]
 
 ## Overview
 
-At Powerex, I built quantitative tools and analyses to support traders on the power and gas desks, plus helped manage the LCFS credit portfolio.
+Powerex is an energy trading company that trades electricity across WECC in the day-ahead and real-time markets, along with natural gas and environmental credits. I joined the Front Office Analytics team, where I built quantitative tools and analyses to support traders on the power and gas desks and helped manage the LCFS credit portfolio. This was a good chance to use my technical skills in a financial industry setting.
 
 ---
 

@@ -40,7 +40,4 @@ A significant challenge for industrial drones is maintaining performance in high
 
 ---
 
-## About the Company
-Avestec specializes in automated robotic inspection solutions, specifically focusing on the intersection of UAV technology and non-destructive testing (NDT). Their flagship drones enable high-precision UT measurements in environments that are inaccessible or unsafe for human inspectors.
-
 [Visit Avestec Official Website](https://avestec.com/){: .btn .btn-sm .z-depth-1 target="_blank"}

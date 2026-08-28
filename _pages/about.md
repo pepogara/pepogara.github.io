@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm in my 5th year of [engineering physics at UBC](https://www.engphys.ubc.ca/), where I have built a strong foundation in both robotics and applied physics. Our coursework consists of both theoretical classes as well as year-long project-based ones. This mix has given me experience with control systems, prototyping, sensors, experimental design, and machine learning.
+I studied [engineering physics at UBC](https://www.engphys.ubc.ca/), graduating in May 2026. The program splits fairly evenly between theoretical coursework and year-long project courses, and that mix is where most of my practical experience comes from. Control systems, prototyping, sensors, experimental design, and machine learning, learned as much in the lab as in the classroom. A couple of courses stood out in particular: my capstone projects, the most recent being a reinforcement learning project on RC cars, and a course on AI in finance where I built a two-step transfer learning framework based on a DSGE model.
 
-In 2024 I went on exchange to [ETH Zurich](https://ethz.ch/de.html) where I took advanced master's-level courses in areas such as planning and decision making for autonomous robots, aerodynamics, photonics, and various others.
+In 2024 I went on exchange to [ETH Zurich](https://ethz.ch/en.html), taking advanced master's-level courses in planning and decision-making for autonomous robots, aerodynamics, photonics, aeroelasticity, and managerial economics.
 
-I’m particularly interested in robotics, optics, energy systems, and data-driven decision making. I enjoy building systems that integrate hardware, software, and theory. Whether I’m prototyping a robotic mechanism, optimizing an optical system, or developing a control strategy, I’m motivated by projects that connect concepts with practical applications.
+My interests are fairly broad: robotics, software, mechanical design, optics, energy systems, and data-driven decision-making, generally anything that involves hardware, software, and theory working together. I like projects that sit at that intersection — prototyping a mechanism, optimizing an optical system, or writing the control logic that connects them.
+
+This site collects some of that work: the projects I've built, courses that shaped how I think, and experience I've picked up along the way. For more detail, my GitHub has the code behind most of it.

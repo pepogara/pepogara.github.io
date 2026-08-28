@@ -40,7 +40,4 @@ A core part of my role involved moving the system from a proof-of-concept to a p
 
 ---
 
-## About the Company
-Insporos leverages robotics and machine learning to modernize the agricultural sector. Their technology provides commercial greenhouses with deep insights into seed health, ensuring higher crop yields and more efficient resource management through automated inspection and sorting.
-
-[Visit Insporos Official Website](https://www.insporos.com/){: .btn .btn-sm .z-depth-1 target="_blank"}
+[Visit Insporos LinkedIn](https://www.linkedin.com/company/insporos/){: .btn .btn-sm .z-depth-1 target="_blank"}
